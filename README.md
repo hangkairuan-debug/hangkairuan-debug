@@ -23,3 +23,9 @@
 
 ---
 *“Debug the world, one line of code at a time.”*
+### 📊 我的开发战力 (GitHub Stats)
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hangkairuan-debug&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangkairuan-debug&layout=compact&theme=radical" />
+</div>
