@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hangkairuan-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  <br><br>
+<br><br>
 
-  <img src="https://profile-counter.glitch.me/hangkairuan-debug/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=hangkairuan-debug&label=PROFILE+VIEWS&color=00FF99&style=flat" alt="Profile Views" />
 </div>
