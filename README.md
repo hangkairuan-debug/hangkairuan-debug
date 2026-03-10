@@ -23,10 +23,12 @@
 
 ---
 *“Debug the world, one line of code at a time.”*
-### 📊 我的开发战力 (GitHub Stats)
+### 📊 战力与足迹 (Stats & Visitors)
 
-### 📊 我的开发战力 (GitHub Stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hangkairuan-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangkairuan-debug&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangkairuan-debug&layout=compact&theme=radical)
+  <img src="https://profile-counter.glitch.me/hangkairuan-debug/count.svg" alt="Visitor Count" />
+</div>
