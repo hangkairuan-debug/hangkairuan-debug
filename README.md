@@ -1,6 +1,6 @@
 # ⚡️ Hello World, I'm hangkairuan-debug!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&vCenter=true&random=false&width=435&lines=Indie+Game+Developer;AI+Tooling+%26+Security+Enthusiast;Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&vCenter=true&random=false&width=435&lines=Indie+Game+Developer;AI+Tooling+%26+Security+Enthusiast;Building+things+that+matter.)](https://github.com/hangkairuan-debug/openclaw-sentinel)
 
 我是一名热爱技术探索的开发者，致力于构建实用、硬核的工具与充满沉浸感的交互体验。
 
